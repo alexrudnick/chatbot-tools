@@ -1,0 +1,11 @@
+sussbot and all of the IRC-related code in this homework are based on the
+ircbot-collection package, by Ben Collins-Sussman et al.
+
+It was modified slightly to run on Python 3, and to make the use of IRC-server
+passwords easier, by Alex Rudnick.
+
+ircbot-collection code is released under the GPL v2.
+http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+... except for irclib.py and ircbot.py, which are released under the LGPL (see
+their text).
